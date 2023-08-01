@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-<a href=&quothttps://github.com/ghost1372&quot>
+<a href=&quothttps://github.com/mhrnzb&quot>
 <img align=&quotcenter&quot src=&quothttps://github-readme-stats.vercel.app/api/top-langs/?username=mhrnzb&quot />
 </a>
