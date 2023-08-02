@@ -1,6 +1,9 @@
 ### Hi there 👋
 I'm mehrnaz .
-&theme=dracula
+I'm a computer engineering student in the university and very interested in learning different technologies.
+ 
+I am currently learning new technologies and I publish the codes I write here, so some of the projects I publish here are simple and some are complex.
+
 <!--
 **mhrnzb/mhrnzb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
