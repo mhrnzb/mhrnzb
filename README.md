@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhrnzb&label=Profile%20views&color=0e75b6&style=flat" alt="mhrnzb" /> </p>
 
-- 🌱 I’m currently learning **React , Python**
+- 🌱 I’m currently learning **C# , React**
 
 - 💬 Ask me about **anything!**
 
-- ⚡ Fun fact ** I'm a painter**
+- ⚡ Fun fact **I'm a painter**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
