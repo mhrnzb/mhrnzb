@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **anything!**
 
-- ⚡ Fun fact **I'm a painter**
+- ⚡ Fun fact about me : **I'm a painter**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
