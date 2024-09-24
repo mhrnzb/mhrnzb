@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhrnzb&label=Profile%20views&color=0e75b6&style=flat" alt="mhrnzb" /> </p>
 
-- 🌱 I’m currently learning **C# , ASP.NET core , React**
+- 🌱 I’m currently learning **React and JS**
 
 - 💬 Ask me about **anything!**
 
